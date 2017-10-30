@@ -1,4 +1,4 @@
-package com.kuranado;
+package com.kuranado.initializetest;
 
 /**
  * Created by JING on 2017/10/28.

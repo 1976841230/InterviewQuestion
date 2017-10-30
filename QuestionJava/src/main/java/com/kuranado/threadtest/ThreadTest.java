@@ -1,4 +1,4 @@
-package com.kuranado;
+package com.kuranado.threadtest;
 
 /**
  * Created by JING on 2017/10/28.
